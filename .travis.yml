@@ -62,7 +62,7 @@ install:
   - pip install -e .[tests]
 
   # install TensorFlow (CPU version).
-  - pip install tensorflow==1.15.0
+  - pip install tensorflow==1.14.0
   
   # install cntk
   - pip install cntk
